@@ -61,8 +61,8 @@ Hacking Tools And Facebook Bot
 	
 	$ pkg install git
 	
-	$ git clone https://github.com/Alnonimona/kanciang
+	$ git clone https://github.com/Alnonimona/contoh
 	
-	$ cd kanciang
+	$ cd contoh
 	
 	$ ruby main.rb
